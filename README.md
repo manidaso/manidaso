@@ -46,7 +46,7 @@ We verify every product, seller, and shipment — ensuring authenticity, transpa
 
 - 📸 [Instagram](https://www.instagram.com/manidaso)  
 
-- 🎥 [TikTok](https://www.tiktok.com/@realmanidaso)
+- 🎥 [TikTok](https://www.tiktok.com/@manidaso)
 
 ---
 
