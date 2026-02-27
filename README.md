@@ -1,65 +1,54 @@
-# MANIDASO® — The Trust Behind Trade
+MANIDASO® — Trade Governance Platform
 
-**Verified commerce and logistics ecosystem connecting trusted buyers, sellers, and shippers between the UK, Ghana, and the world.**
+MANIDASO® is a UK-based trade governance platform for domestic and cross-border commerce.
 
----
+It applies eligibility standards, rule-based payment progression, and recorded custody checkpoints to preserve each transaction as a documented route record.
 
-### 🌍 About MANIDASO
+About MANIDASO
 
-MANIDASO bridges borders with trust.  
+MANIDASO provides governance infrastructure for trade.
 
-We verify every product, seller, and shipment — ensuring authenticity, transparency, and protection at every stage of trade.
+The platform does not act as a marketplace counterparty or logistics carrier.
+Instead, it defines participation standards, controls progression rules, and records each stage of trade under published system frameworks.
 
+Built in London and initially focused on the UK–Ghana trade corridor, the platform is designed to support transparent, traceable, and accountable commerce across global routes.
 
-**Built in London. Expanding globally.**
+Core Governance Divisions
 
+MANIDASO Mart
+Governed listings and verified participation standards.
 
-> “Shop Global. Feel Local.”  
+MANIDASO Verify
+Identity, seller, and product verification frameworks.
 
-> — MANIDASO®
+MANIDASO Pay
+Rule-based payment progression and release conditions.
 
+MANIDASO Move
+Recorded custody and delivery checkpoints from collection to handover.
 
----
+Official Links
 
+Website: https://www.manidaso.com
 
-### ⚙️ Divisions
+LinkedIn: https://www.linkedin.com/company/manidaso
 
-**Mart** — Shop verified products globally  
+X (Twitter): https://x.com/realmanidaso
 
-**Move** — Ship with confidence  
+Instagram: https://www.instagram.com/manidaso
 
-**Pay** — Escrow-secured payments  
+TikTok: https://www.tiktok.com/@manidaso
 
-**Verify** — Trust, verified  
+Legal Information
 
-**Trust Index** — The measure behind reliability
+Registered Company: MANIDASO LTD (United Kingdom)
+Company Number: 16625844
 
----
+Registered Trademark: MANIDASO®
+UK Trademark No.: UK00004237982
 
-### 🔗 Official Links
+Jurisdictions: United Kingdom | Ghana | United States
 
-- 🌐 [Website](https://www.manidaso.com)  
+MANIDASO® — The Trust Behind Trade
 
-- 💼 [LinkedIn](https://www.linkedin.com/company/manidaso)  
-
-- 🕊️ [X (Twitter)](https://x.com/realmanidaso)  
-
-- 📸 [Instagram](https://www.instagram.com/manidaso)  
-
-- 🎥 [TikTok](https://www.tiktok.com/@manidaso)
-
----
-
-### 🏛️ Legal
-
-**Registered Company:** MANIDASO LTD — Company No. 16625844 (United Kingdom)  
-
-**Registered Trademark:** MANIDASO® — UK Trademark No. UK00004237982 (Classes 9, 35, 36, 42)  
-
-**Jurisdictions:** United Kingdom | Ghana | United States  
-
-
-© 2025 MANIDASO LTD. *The Trust Behind Trade.*  
-
-All rights reserved.
-
+© MANIDASO LTD
