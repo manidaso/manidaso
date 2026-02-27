@@ -16,15 +16,19 @@ Built in London and initially focused on the UK–Ghana trade corridor, the plat
 Core Governance Divisions
 
 MANIDASO Mart
+
 Governed listings and verified participation standards.
 
 MANIDASO Verify
+
 Identity, seller, and product verification frameworks.
 
 MANIDASO Pay
+
 Rule-based payment progression and release conditions.
 
 MANIDASO Move
+
 Recorded custody and delivery checkpoints from collection to handover.
 
 Official Links
