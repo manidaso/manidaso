@@ -49,6 +49,24 @@ Registered Company: MANIDASO LTD (United Kingdom)
 Company Number: 16625844  
 
 Registered Trademark: MANIDASO®  
+
+
+## Platform Pages
+
+- Mart: https://www.manidaso.com/mart
+- Verify: https://www.manidaso.com/verify
+- Pay: https://www.manidaso.com/pay
+- Move: https://www.manidaso.com/move
+- Trust File: https://www.manidaso.com/trust-file
+
+## Published Articles
+
+- What Is MANIDASO®? A Trade Governance Platform for Structured Trade:
+https://medium.com/@manidaso/what-is-manidaso-a-trade-governance-platform-for-structured-trade-88bbc7b5d0e2
+
+## Disclaimer
+
+MANIDASO® does not currently provide regulated payment services, escrow, remittance, wallet services, investment services, or financial advice. Payment and regulated services, where required, are handled through appropriate third-party providers.
 UK Trademark No.: UK00004237982  
 
 Jurisdictions: United Kingdom | Ghana | United States  
