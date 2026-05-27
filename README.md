@@ -57,7 +57,7 @@ Registered Trademark: MANIDASO®
 - Verify: https://www.manidaso.com/verify
 - Pay: https://www.manidaso.com/pay
 - Move: https://www.manidaso.com/move
-- Trust File: https://www.manidaso.com/trust-file
+- Trust File: https://www.manidaso.com/trust-files
 
 ## Published Articles
 
